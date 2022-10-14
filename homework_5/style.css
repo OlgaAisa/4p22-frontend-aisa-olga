@@ -25,7 +25,7 @@ body {
 .header-block {
     
     margin-top: 0;
-    background-image: url(./thanos-pal-qEEBmRCRSJI-unsplash\ 2.jpg);
+    
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
@@ -84,11 +84,6 @@ a {
 
 }
 
-@font-face {
-    font-family: "KyivTypeTitling"; 
-    src: url("./KyivTypeTitling-VarGX.ttf") format("truetype"); 
-    font-style: normal; 
-    font-weight: normal; 
-    } 
+
 
     
