@@ -1,6 +1,6 @@
 * {
     
-    font-family: "KyivTypeTitling";  
+    font-family:  'Rubik', sans-serif;;
     box-sizing: border-box;
     font-size: calc(10px + 20* (100vw / 1440));
 
